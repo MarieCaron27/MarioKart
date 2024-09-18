@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Laboratoire_conception_de_voitures:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Laboratoire_conception_de_voitures_jar</output-path>
+    <root id="archive" name="Laboratoire_conception_de_voitures.jar">
+      <element id="module-output" name="Laboratoire_conception_de_voitures" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../flatlaf-3.4.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
